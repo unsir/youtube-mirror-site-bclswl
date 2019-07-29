@@ -11,7 +11,7 @@
 
 > ~~AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds~~
 
-> ~~AIzaSyAurg5k-lp9qQxA_IpC5x48YZ3-cslEQ5Q
+> ~~AIzaSyAurg5k-lp9qQxA_IpC5x48YZ3-cslEQ5Q~~
 
 You2PHP原版中有一个名为4k.php的脚本，实质上，4k.php是一个在线代理脚本。本人并不提倡滥用Heroku的免费服务，故将其移除。**另，这份源码中`<head>`部分加上了`nofollow`标签，这样可以有效防止搜索引擎抓取。这是原版里所没有的。**
 
